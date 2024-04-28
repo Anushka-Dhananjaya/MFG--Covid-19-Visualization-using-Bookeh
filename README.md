@@ -3,6 +3,7 @@ This repository contains the Bokeh visualization project for analyzing and visua
 Project Overview-
 This project focuses on visualizing COVID-19 data to provide insights into the global and country-specific spread of the virus. Utilizing Python and the Bokeh library, this repository contains scripts and datasets that explore trends in confirmed cases and deaths due to COVID-19.
 
+This is built on Jupyter Notebook.
 
 Visualizations-
 1. Line Graph: Shows global daily confirmed cases over time.
